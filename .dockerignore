@@ -1,0 +1,12 @@
+assets
+.tox
+.mypy_cache
+data
+.gitignore
+.git
+Dockerfile
+LICENSE
+README.md
+tox.ini
+requirements_dev.txt
+tests
