@@ -23,6 +23,7 @@ class ObjectIdConverter(BaseConverter):
     def to_url(self, value):
         return str(value)
 
+
 def find_restaurants(mongo, _id=None):
     query = {}
     if _id:
